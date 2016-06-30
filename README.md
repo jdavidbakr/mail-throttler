@@ -38,17 +38,17 @@ Set the approprite values in the config file config/mail-throttler.php
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/jdavidbakr/MailTracker.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/jdavidbakr/mail-throttler.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/jdavidbakr/MailTracker/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/jdavidbakr/MailTracker.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/jdavidbakr/MailTracker.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/jdavidbakr/MailTracker.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/jdavidbakr/mail-throttler/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/jdavidbakr/mail-throttler.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/jdavidbakr/mail-throttler.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/jdavidbakr/mail-throttler.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/jdavidbakr/mail-tracker
-[link-travis]: https://travis-ci.org/jdavidbakr/MailTracker
-[link-scrutinizer]: https://scrutinizer-ci.com/g/jdavidbakr/MailTracker/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/jdavidbakr/MailTracker
+[link-packagist]: https://packagist.org/packages/jdavidbakr/mail-throttler
+[link-travis]: https://travis-ci.org/jdavidbakr/mail-throttler
+[link-scrutinizer]: https://scrutinizer-ci.com/g/jdavidbakr/mail-throttler/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/jdavidbakr/mail-throttler
 [link-downloads]: https://packagist.org/packages/jdavidbakr/mail-tracker
 [link-author]: https://github.com/jdavidbakr
 [link-contributors]: ../../contributors
