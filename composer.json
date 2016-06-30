@@ -1,7 +1,7 @@
 {
     "name": "jdavidbakr/mail-throttler",
     "type": "library",
-    "description": ":package_description",
+    "description": "Service Provider to add the Swift ThrottlerPlugin to outgoing mail.",
     "keywords": [
         "jdavidbakr",
         "mail-throttler"
