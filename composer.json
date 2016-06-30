@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Jon Baker",
+            "email": "me@jdavidbaker.com",
+            "homepage": "http://www.jdavidbaker.com/",
             "role": "Developer"
         }
     ],
